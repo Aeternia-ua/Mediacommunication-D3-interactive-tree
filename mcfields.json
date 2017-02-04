@@ -2,11 +2,13 @@
 	"name": "mediacommunication fields",
 	"children": [{
 		"name": "Напрямок #1",
+		"img": "https://cdn-ssl-promptcloud.pressidium.com/wp-content/uploads/2016/02/6-data-visualization-tools-feature.jpg",
 		"children": [{
 			"name": "Представник #1",
 			"size": 3938
 		}, {
 			"name": "Студент #1",
+			"img": 
 			"size": 3812
 		}, {
 			"name": "Щосьтам #1",
@@ -14,6 +16,7 @@
 		}]
 	}, {
 		"name": "Напрямок #2",
+		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
 		"children": [{
 			"name": "Представник #2",
 			"size": 3938
