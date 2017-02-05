@@ -1,5 +1,5 @@
 {
-	"name": "mediacommunication fields",
+	"name": "Медіакомунікації",
 	"children": [{
 		"name": "Напрямок #1",
 		"img": "https://cdn-ssl-promptcloud.pressidium.com/wp-content/uploads/2016/02/6-data-visualization-tools-feature.jpg",
@@ -29,6 +29,70 @@
 			"size": 3938
 		}, {
 			"name": "Щосьтам #2",
+			"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+			"size": 6714
+		}]
+		}, {
+		"name": "Напрямок #3",
+		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+		"children": [{
+			"name": "Представник #3",
+			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"size": 1500
+		}, {
+			"name": "Студент #3",
+			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"size": 3938
+		}, {
+			"name": "Щосьтам #3",
+			"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+			"size": 6714
+		}]
+			}, {
+		"name": "Напрямок #4",
+		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+		"children": [{
+			"name": "Представник #4",
+			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"size": 1500
+		}, {
+			"name": "Студент #4",
+			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"size": 3938
+		}, {
+			"name": "Щосьтам #4",
+			"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+			"size": 6714
+		}]
+				}, {
+		"name": "Напрямок #5",
+		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+		"children": [{
+			"name": "Представник #5",
+			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"size": 1500
+		}, {
+			"name": "Студент #5",
+			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"size": 3938
+		}, {
+			"name": "Щосьтам #5",
+			"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+			"size": 6714
+		}]
+					}, {
+		"name": "Напрямок #6",
+		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+		"children": [{
+			"name": "Представник #6",
+			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"size": 1500
+		}, {
+			"name": "Студент #6",
+			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"size": 3938
+		}, {
+			"name": "Щосьтам #6",
 			"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
 			"size": 6714
 		}]
