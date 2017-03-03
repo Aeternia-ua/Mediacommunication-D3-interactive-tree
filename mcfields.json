@@ -1,12 +1,12 @@
 {
 	"name": "Медіакомунікації",
-	"img": "https://github.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/blob/master/img/1.jpg",
+	"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/1.jpg",
 	"children": [{
 		"name": "Напрямок #1",
 		"img": "https://cdn-ssl-promptcloud.pressidium.com/wp-content/uploads/2016/02/6-data-visualization-tools-feature.jpg",
 		"children": [{
 			"name": "Представник #1",
-			"img": "https://github.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/blob/master/img/2.jpg",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
 			"size": 1500
 		}, {
 			"name": "Студент #1",
