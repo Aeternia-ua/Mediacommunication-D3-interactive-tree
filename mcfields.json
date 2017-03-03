@@ -3,14 +3,14 @@
 	"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/1.jpg",
 	"children": [{
 		"name": "Напрямок #1",
-		"img": "https://cdn-ssl-promptcloud.pressidium.com/wp-content/uploads/2016/02/6-data-visualization-tools-feature.jpg",
+		"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
 		"children": [{
 			"name": "Представник #1",
 			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
 			"size": 1500
 		}, {
 			"name": "Студент #1",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/3.jpg",
 			"size": 3812
 		}, {
 			"name": "Щосьтам #1",
@@ -19,14 +19,14 @@
 		}]
 	}, {
 		"name": "Напрямок #2",
-		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+		"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
 		"children": [{
 			"name": "Представник #2",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
 			"size": 1500
 		}, {
 			"name": "Студент #2",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/3.jpg",
 			"size": 3938
 		}, {
 			"name": "Щосьтам #2",
@@ -35,14 +35,14 @@
 		}]
 		}, {
 		"name": "Напрямок #3",
-		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+		"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
 		"children": [{
 			"name": "Представник #3",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
 			"size": 1500
 		}, {
 			"name": "Студент #3",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/3.jpg",
 			"size": 3938
 		}, {
 			"name": "Щосьтам #3",
@@ -51,14 +51,14 @@
 		}]
 			}, {
 		"name": "Напрямок #4",
-		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+		"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
 		"children": [{
 			"name": "Представник #4",
 			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
 			"size": 1500
 		}, {
 			"name": "Студент #4",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/3.jpg",
 			"size": 3938
 		}, {
 			"name": "Щосьтам #4",
@@ -67,14 +67,14 @@
 		}]
 				}, {
 		"name": "Напрямок #5",
-		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+		"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
 		"children": [{
 			"name": "Представник #5",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
 			"size": 1500
 		}, {
 			"name": "Студент #5",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/3.jpg",
 			"size": 3938
 		}, {
 			"name": "Щосьтам #5",
@@ -83,14 +83,14 @@
 		}]
 					}, {
 		"name": "Напрямок #6",
-		"img": "http://spinonweb.com/wp-content/uploads/2015/10/SOCIAL-MEDIA-MARKETIN-G1.png",
+		"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/4.jpg",
 		"children": [{
 			"name": "Представник #6",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/2.jpg",
 			"size": 1500
 		}, {
 			"name": "Студент #6",
-			"img": "http://www.logotypes101.com/logos/58/D37CF7C6A8D86ABA261AE9E436A26B63/anonimus.png",
+			"img": "https://raw.githubusercontent.com/Aeternia-ua/Mediacommunication-D3-interactive-tree/master/img/3.jpg",
 			"size": 3938
 		}, {
 			"name": "Щосьтам #6",
